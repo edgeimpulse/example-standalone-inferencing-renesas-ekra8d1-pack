@@ -24,4 +24,4 @@ Static inference on Renesas EK-RA8D1 using Open CMSIS pack.
 > - NN library, version 4.0.0 or 4.1.0
 
 > [!NOTE]
-> hat you need you provide the implementation for a series of function, see [Functions that require definition](https://docs.edgeimpulse.com/docs/run-inference/cpp-library/deploy-your-model-as-a-c-library#functions-that-require-definition) for a complete list.
+> You need you provide the implementation for a series of function, see [Functions that require definition](https://docs.edgeimpulse.com/docs/run-inference/cpp-library/deploy-your-model-as-a-c-library#functions-that-require-definition) for a complete list.
